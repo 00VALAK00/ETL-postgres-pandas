@@ -1,4 +1,5 @@
-![image](https://github.com/00VALAK00/ETL-postgres-pandas/assets/117487025/29d575e0-1f6d-4922-81ee-2150e63ad4e1)
+![image](https://github.com/00VALAK00/ETL-postgres-pandas/assets/117487025/0cd1206d-fbd1-4fb5-b787-3745d6a47bcf)
+
 
 
 # ETL Pipeline Implementation
