@@ -3,7 +3,7 @@
 
 You can find in this repository a simple implementation of an ETL pipeline where you :
 1- extract data from web-url into a csv file and write it to database
-2- perform necessary data_transformation 
+2- perform necessary data_transformations
 3- write the resulting data in a postgres db 
 
 
